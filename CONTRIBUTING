@@ -1,34 +1,95 @@
-# Contributing to Open Ecosystem Collective
+# Contributing
 
-We welcome contributions from anyone who shares our values.
-Before contributing, please read our [Values Charter](../governance/values-charter.md).
+**Open Ecosystem Collective – How to Contribute to the Methodology**
+
+This repository is a living methodology. It improves because people
+who use it share what they learn. Every contribution – large or small –
+makes it more useful for the next person.
+
+---
+
+## Before you contribute
+
+Read the [Values Charter](https://github.com/open-ecosystem-collective/governance/blob/main/values-charter.md).
+
+Contributions here reflect the collective's values. Openness means sharing what
+you learned even when it came from a client engagement. Reciprocity means giving
+back to the methodology that helped you deliver good work.
+
+---
 
 ## Ways to contribute
 
-**Improve existing methodology**
-- Fix errors, improve clarity, add examples
-- Submit a pull request with a clear description of what changed and why
+### Fix something
+Found an error, an unclear sentence, or outdated information?
+Submit a Pull Request directly. No issue needed for small fixes.
 
-**Add new content**
-- Open an issue first to discuss before building
-- We use Lazy Consensus: if no objection within 72h, the proposal moves forward
+### Improve something
+Have a better way to explain a concept, a clearer scoring rubric,
+a more useful template structure? Open an issue first to discuss,
+then submit a Pull Request.
 
-**Share your experience**
-- Anonymized case studies showing how the methodology worked (or didn't)
-- Add to the `/case-studies` folder
+### Add something new
+Want to add a new playbook, a new template, or a new assessment dimension?
+Open an issue describing:
+- What you want to add
+- Who it is for (which company size, which maturity level)
+- Why existing content does not cover it
+- Whether you can write the first draft yourself
+
+### Share a case study
+Anonymised case studies showing how the methodology worked in practice
+are extremely valuable. They belong in a `/case-studies` folder
+(to be created when the first one is submitted).
+
+Include:
+- Company profile (size, sector, Cloud Native stack – no names)
+- Which assessment score they started with
+- Which engagement was recommended
+- What the outcome was (MDF secured, co-sell initiated, etc.)
+
+---
 
 ## Contribution process
 
+**For small changes (typos, clarifications):**
 1. Fork the repository
-2. Create a branch: `git checkout -b improve/assessment-scoring`
-3. Make your changes
-4. Submit a pull request
-5. 72h review window (Lazy Consensus)
+2. Make your change
+3. Submit a Pull Request with a clear one-line description
+4. 72h Lazy Consensus – if no objection, it is merged
+
+**For significant changes (new content, structural changes):**
+1. Open an Issue first
+2. Describe the change and the reasoning
+3. 72h discussion period
+4. Once direction is agreed, submit the Pull Request
+5. 72h Lazy Consensus on the PR
+
+---
 
 ## Language
 
-English and German both welcome.
+English and German both welcome.  
+If you write in German, add a brief English summary at the top.
+Further langugages open to be added.
 
-## Questions?
+---
 
-Open an issue or reach out: tania.romero@windowslive.com
+## What we are not looking for
+
+- Generic partner management advice that is not specific to
+  Cloud Native / Open Source companies
+- Content that favours any specific vendor, tool, or platform
+- Anything that could not be shared with a client directly
+
+---
+
+## Questions
+
+Open an issue or reach out to Tania:  
+📧 tania.romero@windowslive.com  
+🔗 [linkedin.com/in/tanvonrom](https://linkedin.com/in/tanvonrom)
+
+---
+
+*Open Ecosystem Collective · CC-BY-SA 4.0*
