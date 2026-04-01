@@ -1,0 +1,58 @@
+# Assessments
+
+**Open Ecosystem Collective – Assessment Methodology**
+
+This folder contains the tools used to evaluate where a company stands
+in its partner ecosystem maturity – and what to do about it.
+
+---
+
+## What's here
+
+| File | Purpose |
+|---|---|
+| [`partner-ecosystem-maturity-assessment-v1.0.md`](partner-ecosystem-maturity-assessment-v1.0.md) | The complete assessment – all questions, scoring, and interpretation |
+| [`scoring-guide.md`](scoring-guide.md) | How to score, interpret profiles, and choose the right engagement |
+
+---
+
+## How the assessment works
+
+**5 dimensions × 3 questions × 5 points = 75 points maximum**
+
+Each dimension corresponds directly to a maturity level in the collective:
+
+| Dimension | Measures | Delivered by |
+|---|---|---|
+| D1 – Partner Awareness | Do they know the ecosystem and basic terminology? | Level 1 |
+| D2 – MDF Readiness | Can they apply for Market Development Funds? | Level 2 |
+| D3 – Co-Sell Maturity | Are they actively collaborating with vendors? | Level 3 |
+| D4 – Growth Architecture | Do they have a scalable partner strategy? | Level 4 |
+| D5 – Executive Alignment | Is C-level strategically involved in partner decisions? | Level 5 |
+
+---
+
+## Score bands → recommended engagement
+
+| Score | Engagement | Delivered by |
+|---|---|---|
+| 0 – 15 | Discovery Sprint | Level 1+ |
+| 16 – 30 | Full Assessment | Level 2+ |
+| 31 – 45 | Collaboration Plan | Level 3+ |
+| 46 – 60 | Growth Plan | Level 4+ |
+| 61 – 75 | Executive Advisory | Level 5 |
+
+---
+
+## Using the assessment
+
+The assessment is designed to be conducted as a conversation,
+not filled in like a form. The questions are prompts for discovery –
+the score reflects what the assessor observes, not what the client reports.
+
+See the [scoring guide](scoring-guide.md) for guidance on how to
+interpret mixed signals and profile patterns.
+
+---
+
+*Open Ecosystem Collective · CC-BY-SA 4.0 · v1.0*
